@@ -18,11 +18,20 @@ Bu Windows Forms projesi, seçilen bir klasördeki `.pdf` dosyalarını alfabeti
 - **C#** – Uygulama dili
 
 ## 📦 Kurulum
+### 🔹 1. Hazır Kurulum (Tavsiye Edilen)
 
-1. Bu projeyi bilgisayarına klonla veya indir:
-    ```bash
-    git clone https://github.com/Burak-Ozlece/PdfBirlestirici
-    ```
+- En güncel sürüm için GitHub'daki [**Releases**](https://github.com/Burak-Ozlece/PdfBirlestirici/releases) sayfasına gidin.
+- `setup.exe` veya `Setup.msi` dosyasını indirin.
+- İndirdiğiniz dosyayı çalıştırarak kurulumu tamamlayın.
+- Uygulama masaüstüne veya başlat menüsüne otomatik olarak kısayol oluşturacaktır.
+
+---
+
+### 🔹 2. Kaynak Koddan Derlemek (Geliştiriciler İçin)
+
+1. Depoyu klonlayın veya ZIP olarak indirin:
+   ```bash
+   git clone https://github.com/Burak-Ozlece/PdfBirlestirici.git
 
 2. Visual Studio ile aç.
 
