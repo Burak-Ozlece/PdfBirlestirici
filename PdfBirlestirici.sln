@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfBirlestirici", "PdfBirlestirici.csproj", "{F6838DBB-D746-4679-BA20-CEEA214D5A4F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{4D1AC582-8087-5490-FCC2-03CEC5D22547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6838DBB-D746-4679-BA20-CEEA214D5A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6838DBB-D746-4679-BA20-CEEA214D5A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6838DBB-D746-4679-BA20-CEEA214D5A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6838DBB-D746-4679-BA20-CEEA214D5A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1AC582-8087-5490-FCC2-03CEC5D22547}.Debug|Any CPU.ActiveCfg = Debug
+		{4D1AC582-8087-5490-FCC2-03CEC5D22547}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C95FA4-C8EF-4BCA-AB0C-C6BF515C5E86}
+	EndGlobalSection
+EndGlobal
