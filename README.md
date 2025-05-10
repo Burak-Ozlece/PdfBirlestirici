@@ -21,7 +21,7 @@ Bu Windows Forms projesi, seçilen bir klasördeki `.pdf` dosyalarını alfabeti
 ### 🔹 1. Hazır Kurulum (Tavsiye Edilen)
 
 - En güncel sürüm için GitHub'daki [**Releases**](https://github.com/Burak-Ozlece/PdfBirlestirici/releases) sayfasına gidin.
-- `setup.exe` veya `Setup.msi` dosyasını indirin.
+- `Releases.zip` dosyasını indirin.
 - İndirdiğiniz dosyayı çalıştırarak kurulumu tamamlayın.
 - Uygulama masaüstüne veya başlat menüsüne otomatik olarak kısayol oluşturacaktır.
 
