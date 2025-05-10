@@ -43,8 +43,9 @@ Bu Windows Forms projesi, seçilen bir klasördeki `.pdf` dosyalarını alfabeti
 - Sadece `.pdf` uzantılı dosyalar listelenir ve işlenir.
 
 ## 📸 Ekran Görüntüsü
+> Arayüzün ekran görüntüsü
 
-> Ekle: arayüzün ekran görüntüsü
+![arayüzün ekran görüntüsü](https://github.com/user-attachments/assets/e8172a82-bcad-4a0e-9c74-713088d81f7f)
 
 ## 📄 Lisans
 
