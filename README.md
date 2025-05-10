@@ -49,7 +49,7 @@ Bu Windows Forms projesi, seçilen bir klasördeki `.pdf` dosyalarını alfabeti
 
 ## 📄 Lisans
 
-Bu proje açık kaynaklıdır ve [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+Bu proje açık kaynaklıdır ve [MIT Lisansı](https://github.com/Burak-Ozlece/PdfBirlestirici/blob/master/LICENSE.txt) ile lisanslanmıştır.
 
 ---
 
