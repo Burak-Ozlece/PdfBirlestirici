@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfBirlestirici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e5058d22eefbff8199c8e9d95ebd53b95482152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce714b5890f6aff633d65c128a2a8740930cd96")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfBirlestirici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfBirlestirici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
